@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_siblin - main
+ * binary_tree_sibling - main
  * @node: node
  * Return: node
  */
